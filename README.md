@@ -1,6 +1,10 @@
 # Yoga Pose Image Classification
-Kaggle Code link : https://www.kaggle.com/code/ramyamercyrajan/yoga-pose-ramya
-## Kindly download the code file provided in github yoga-pose-ramya.ipynb, because the file is too big so it wont display in github.
+
+## Note
+Due to GitHub file size and rendering limitations, the notebook in this repository may not execute completely on GitHub. Therefore, the fully executable version of the project, including all code cells and outputs, has been uploaded to Kaggle.
+
+**Kaggle Notebook:** https://www.kaggle.com/code/ramyamercyrajan/yoga-pose-ramya
+
 ## Project Overview
 This project classifies yoga poses using Deep Learning techniques including Convolutional Neural Networks (CNNs) and Transfer Learning.
 
